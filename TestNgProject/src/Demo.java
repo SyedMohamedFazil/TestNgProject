@@ -6,6 +6,7 @@ public class Demo {
 		public void e_method()
 		{
 			System.out.println("Inside e_method");
+			System.out.println("Hello frnds i pushed the code");
 		}
 		@Test(priority =29)
 		public void a_method()
